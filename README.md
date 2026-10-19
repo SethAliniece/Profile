@@ -11,6 +11,5 @@ I'm a freshman at the University of Texas at San Antonio, majoring in Cybersecur
 ![Technology](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sethaliniece)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sethaliniece)
-
-_"If you cant fly then run, if you cant run than walk, if you cant walk than crawl, but whatever you do you have to keep moving forward." -MLK
+[![LinkedIn](https://www.linkedin.com/in/seth-aliniece-9196a7441/?isSelfProfile=true)
+"A man who stands for nothing will fall for anything" -Malcom X

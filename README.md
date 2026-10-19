@@ -11,3 +11,4 @@ I'm a freshman at the University of Texas at San Antonio, majoring in Cybersecur
 ![Technology](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sethaliniece)
+[![Linkedin](https://www.linkedin.com/in/seth-aliniece-9196a7441/?isSelfProfile=true)]

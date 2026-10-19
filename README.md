@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, Seth Aliniece
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a freshman at the University of Texas at San Antonio (UTSA), majoring in Cybersecurity. I'm building my technical skills through hands-on labs and learning how to use tools that are important in the cybersecurity field. I'm interested in gaining real-world experience, solving technical problems, and continuing to grow as a cybersecurity professional.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)

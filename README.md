@@ -12,4 +12,5 @@ I'm a freshman at the University of Texas at San Antonio, majoring in Cybersecur
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sethaliniece)
 [![LinkedIn](https://www.linkedin.com/in/seth-aliniece-9196a7441/?isSelfProfile=true)
+
 "A man who stands for nothing will fall for anything" -Malcom X
